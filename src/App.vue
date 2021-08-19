@@ -2,10 +2,10 @@
   <div id="app"> 
       <div class="section">
           <h3 style="margin:0 0 10px 0">Galleries</h3>
-          <span>Feature Image: -(Image show on Deal Information Box) <span style="font-size:12px;margin:0">*Default set to max 2 images.</span></span>
+          <span>Feature Image: -(Image show on Deal Information Box) <span style="font-size:12px;margin:0">*Default set to max 3 images.</span></span>
           <Deals :featureImage="true"></Deals>
           <br/>
-          <span>Product Image: -(Image show in Deal's Details Page)</span>
+          <span>Product Image: -(Image show in Deal's Details Page) <span style="font-size:12px;margin:0">*Default set to max 2 images.</span></span>
           <Deals :productImage="true"></Deals>
       </div>
       <div class="section">
