@@ -94,7 +94,6 @@
                     //})
                     //fileReader.readAsDataURL(files[0])
                     //this.images.push(files[0])
-                    //console.log(this.count)
                     let file = this.$refs.imageInput.files[0];
                     if (!file || file.type.indexOf('image/') !== 0) return;
 
@@ -141,7 +140,6 @@
                     //})
                     //fileReader.readAsDataURL(files[0])
                     //this.images.push(files[0])
-                    //console.log(this.count)
                     let file = this.$refs.imageInput.files[0];
                     if (!file || file.type.indexOf('image/') !== 0) return;
 
