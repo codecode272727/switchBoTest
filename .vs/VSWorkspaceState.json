@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\store"
   ],
-  "SelectedNode": "\\src\\components\\MultiTierDropdown.vue",
+  "SelectedNode": "\\src\\components\\MultiTierDropdown1.vue",
   "PreviewInSolutionExplorer": false
 }
